@@ -172,4 +172,4 @@ Once both servers are running, you can access them at the following URL's:
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
-- [@frory](https://github.com/0-LuckyPenny)
+- [@0-LuckyPenny](https://github.com/0-LuckyPenny)
